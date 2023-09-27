@@ -1,0 +1,17 @@
+{
+  "name": "expenses-manager-node-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "israeli-bank-scrapers": "^4.0.2",
+    "nodemon": "^3.0.1"
+  }
+}
